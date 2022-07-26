@@ -106,3 +106,4 @@ dist
 
 lib/fixtures/*/build/
 reports/
+junit.xml
