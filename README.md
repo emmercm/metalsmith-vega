@@ -1,5 +1,7 @@
 # metalsmith-vega
 
+**⚠️ This repistory has been moved to [metalsmith-plugins](https://github.com/emmercm/metalsmith-plugins/tree/main/packages/metalsmith-vega). ⚠️**
+
 [![npm Version](https://badgen.net/npm/v/metalsmith-vega?icon=npm)](https://www.npmjs.com/package/metalsmith-vega)
 [![npm Weekly Downloads](https://badgen.net/npm/dw/metalsmith-vega)](https://www.npmjs.com/package/metalsmith-vega)
 
